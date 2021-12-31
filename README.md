@@ -65,8 +65,7 @@ user_input : y
 
 Please Enter the Signatures (Printed above)
 
-        Enter the s1 : 35462
-        
+        Enter the s1 : 35462      
         Enter the s2 : 23412
 
 V1 : 44175
