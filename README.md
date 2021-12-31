@@ -11,7 +11,7 @@ Assignments for IIT CS6530 Cryptography Basics
 
 Steps to Execute the Program:
 
-1.  To open the dsaa.exe file.
+1.  To open the dsa.exe file.
 2.  To input the Signatures S1 and S2 (will be dsiaplyed int the screen)
 3.  To give Y or y to continue verfiication with other signature pair.
 
